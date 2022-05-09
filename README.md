@@ -1,6 +1,6 @@
-# 2020-ual-factor-graphs-course
+# factor-graphs-course
 
-Practice material for a short set of lectures on Factor Graphs taught at University of Almeria (Jan 2020).
+Practice material for a short set of lectures on Factor Graphs.
 
 - Slides on factor graphs: [PDF](https://ingmec.ual.es/~jlblanco/papers/2020-introduction-factor-graphs_JLBlanco.pdf)
 - Slides: "Estimation challenges in
